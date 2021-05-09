@@ -16,7 +16,7 @@ array3 = np.array([[1, 2, 3], [4, 5, 6]])
 array4 = np.array([[9, 8, 7], [6, 5, 4]])
 print("mul: ", array3 * array4)
 
-print("matrix prodcut: ", array3.dot(array4.T))
+print("matrix product: ", array3.dot(array4.T))
 
 print(np.exp(array3))
 
