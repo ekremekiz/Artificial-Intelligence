@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="787750a3-0974-44e8-b828-fbb2d4ffd6b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Numpy/Numpy Basic Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Numpy/Numpy Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Python Basics/Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Python Basics/Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Python Basics/Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Numpy/Numpy Basic Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Artificial Intelligence Course 1/Numpy/Numpy Basic Operations.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Numpy Basic Operations">
+  <component name="RunManager" selected="Python.Numpy Basics">
     <configuration name="Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Artificial Intelligent" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Numpy Basic Operations" />
         <item itemvalue="Python.Numpy Basics" />
+        <item itemvalue="Python.Numpy Basic Operations" />
         <item itemvalue="Python.Numbers" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Variables" />
